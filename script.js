@@ -156,6 +156,7 @@ function showResult(){
     }
 }
 
+/*
 function startTimer(time){
     counter = setInterval(timer, 1000);
     function timer(){
@@ -184,7 +185,7 @@ function startTimer(time){
         }
     }
 }
-
+*/
 
 function queCounter(index){
  
